@@ -9,4 +9,4 @@ trim_data - since data collections were done in minute intervals, this function 
 
 trim_interval_data - cuts certain amount of intervals specified based on the inputted value for the function. For example, if the first two intervals and last three intervals were unwanted in the data file, this function would eliminate those for visualization.
 
-syncrhonize - take data files and cut out the initial unwanted data points by syncing the Qvar sensor data with the acceleration spike used to mark the starting point of data collection.
+synchronize - take data files and cut out the initial unwanted data points by syncing the Qvar sensor data with the acceleration spike used to mark the starting point of data collection.
